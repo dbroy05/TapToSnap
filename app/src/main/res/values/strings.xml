@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TapToSnap</string>
+    <string name="take_picture">Take photo</string>
+    <string name="timout_header">Time is up, try again?</string>
+    <string name="timout_title">Session Expired</string>
+    <string name="tap_to_try_lbl">Tap to try again</string>
+    <string name="error_title">Error!</string>
+    <string name="error_msg">There\'s a problem accessing the image file on your device. Please make sure you\'ve enough permission to read/write image file. If the error persists, please try again after removing the existing files in the Pictures directory.</string>
+</resources>
